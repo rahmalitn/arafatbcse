@@ -24,7 +24,7 @@ I'm a passionate **Fullstack Software Engineer** with a **B.Sc. in Mathematics**
 
 ## 📫 How to Reach Me
 - Email: **mdmonirhossaincse@gmail.com**
-- LinkedIn: [[linkedin.com/in/mdmonirhossaincse](https://linkedin.com/in/mdmonirhossaincse](https://www.linkedin.com/in/md-monir-hossain-595214365/))
+- LinkedIn: [[linkedin.com/in/mdmonirhossaincse](https://linkedin.com/in/mdmonirhossaincse]([https://www.linkedin.com/in/md-monir-hossain-595214365/](https://www.linkedin.com/in/md-monir-hossain-595214365/)))
 - Portfolio: *(Coming Soon!)*
 
 ## 😄 Pronouns
