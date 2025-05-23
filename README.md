@@ -24,7 +24,7 @@ I'm a passionate **Fullstack Software Engineer** and currently pursuing an **B.S
 
 ## 📫 How to Reach Me
 - Email: **arafatbakhtiar006@gmail.com**
-- https://www.linkedin.com/in/arafat-sultan-570588367/
+- https://www.linkedin.com/in/arafat-sultan-a82122120/
 - Portfolio: *(Loading...)*
 
 ## 😄 Pronouns
