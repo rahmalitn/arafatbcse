@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Monir Hossain (@mdmonirhossaincse)
+# 👋 Hi, I'm Arafat Hossain (@mdmonirhossaincse)
 
-I'm a passionate **Fullstack Software Engineer** with a **B.Sc. in Mathematics** and currently pursuing an **M.Sc. in Computer Science and Engineering**. I love blending the analytical rigor of math with the creativity of code to build innovative and impactful solutions.
+I'm a passionate **Fullstack Software Engineer** and currently pursuing an **B.Sc. in Computer Science and Engineering**. I love blending the analytical rigor of math with the creativity of code to build innovative and impactful solutions.
 
 ---
 
@@ -23,9 +23,9 @@ I'm a passionate **Fullstack Software Engineer** with a **B.Sc. in Mathematics**
 - Educational platforms combining math, coding, and creativity
 
 ## 📫 How to Reach Me
-- Email: **mdmonirhossaincse@gmail.com**
+- Email: **arafatbakhtiar006@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/md-monir-hossain-595214365/
-- Portfolio: *(Coming Soon!)*
+- Portfolio: *(Loading...)*
 
 ## 😄 Pronouns
 He/Him
