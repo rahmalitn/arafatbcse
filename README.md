@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arafat Hossain (@mdmonirhossaincse)
+# 👋 Hi, I'm Arafat Sultan (@arafatbcse)
 
 I'm a passionate **Fullstack Software Engineer** and currently pursuing an **B.Sc. in Computer Science and Engineering**. I love blending the analytical rigor of math with the creativity of code to build innovative and impactful solutions.
 
