@@ -31,7 +31,7 @@ I'm a passionate **Fullstack Software Engineer** and Professional **Economist**.
 He/Him
 
 ## ⚡ Fun Fact
-Despite my deep love for mathematics and technology, I'm also a huge fan of art, music, and storytelling. I believe the best software feels as natural and expressive as a beautiful piece of art!
+Despite my deep love for economics, mathematics and technology, I'm also a huge fan of art, music, and storytelling. I believe the best software feels as natural and expressive as a beautiful piece of art!
 
 
 
