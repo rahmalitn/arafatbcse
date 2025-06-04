@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Arafat Sultan (@arafatbcse)
+# 👋 Hi, I'm MD RAHMAT ALI (@rahmalitn)
 
-I'm a passionate **Fullstack Software Engineer** and currently pursuing an **B.Sc. in Computer Science and Engineering**. I love blending the analytical rigor of math with the creativity of code to build innovative and impactful solutions.
+I'm a passionate **Fullstack Software Engineer** and Professional Economist**. I love blending the analytical rigor of math with the creativity of code to build innovative and impactful solutions.
 
 ---
 
@@ -23,8 +23,8 @@ I'm a passionate **Fullstack Software Engineer** and currently pursuing an **B.S
 - Educational platforms combining math, coding, and creativity
 
 ## 📫 How to Reach Me
-- Email: **arafatbakhtiar006@gmail.com**
-- https://www.linkedin.com/in/arafat-sultan-a82122120/
+- Email: **mdrahmatalituhin1996@gmail.com**
+- https://www.linkedin.com/in/md-rahmat-ali-51693327b/
 - Portfolio: *(Loading...)*
 
 ## 😄 Pronouns
