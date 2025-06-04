@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MD RAHMAT ALI (@rahmalitn)
 
-I'm a passionate **Fullstack Software Engineer** and Professional Economist**. I love blending the analytical rigor of math with the creativity of code to build innovative and impactful solutions.
+I'm a passionate **Fullstack Software Engineer** and Professional **Economist**. I love blending the analytical rigor of math with the creativity of code to build innovative and impactful solutions.
 
 ---
 
